@@ -1,0 +1,4 @@
+Jiahao Cai is currently a Master (Ph.D. drop out) student majared in Computer Science at University of Virginia, graduating in June 2020. Previously, as a Ph.D. student, his research interest lies in program analysis, software security, reverse engineering and software engineering. Jiahao has worked as a research assistant on two projects since December 2018, the first is about extracting platform-agnostic vulnerability signatures and search for similar vulnerability on other platforms (e.g. IoT devices); the second is about creating a forensics-resilient web attack, and this led to a paper submitted to a top security conference (currently under review). Jiahao is also an experienced and enthusiastic programmer, for example, during undergraduate, he dug into the C++ STL and maintained his own STL; he wrote a kernel for embedded OS; he solely developed an Android application which got hundreds of downloads.
+
+
+
